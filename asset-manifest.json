@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0dbecb35.css",
+    "main.js": "/static/js/main.77beb706.js",
+    "static/media/elon-01.png": "/static/media/elon-01.1db17750a7d50b8fa589.png",
+    "static/media/Inter-Variable.ttf": "/static/media/Inter-Variable.e05c5f3d1fa6a3893d84.ttf",
+    "static/media/vid-01.webm": "/static/media/vid-01.f6227c13d408445dc112.webm",
+    "static/media/portrait.jpg": "/static/media/portrait.27b600e6b1bbc15b940c.jpg",
+    "static/media/TimesNewRoman.ttf": "/static/media/TimesNewRoman.81560eeae7b825038bd7.ttf",
+    "static/media/pic-01.png": "/static/media/pic-01.3108855ae61c6cc9d747.png",
+    "static/media/DMSerifDisplay-Regular.ttf": "/static/media/DMSerifDisplay-Regular.3dc35422a8813390b30f.ttf",
+    "static/media/bg-flag.jpg": "/static/media/bg-flag.a196a5e35c9d027f9a8d.jpg",
+    "static/media/menu.svg": "/static/media/menu.6f77482fc99f7ffd3107.svg",
+    "index.html": "/index.html",
+    "main.0dbecb35.css.map": "/static/css/main.0dbecb35.css.map",
+    "main.77beb706.js.map": "/static/js/main.77beb706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dbecb35.css",
+    "static/js/main.77beb706.js"
+  ]
+}
