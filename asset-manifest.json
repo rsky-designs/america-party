@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c11ffb8.css",
-    "main.js": "/static/js/main.a9f605ec.js",
+    "main.css": "/static/css/main.0550cf8e.css",
+    "main.js": "/static/js/main.35284044.js",
     "static/media/vid-01.mp4": "/static/media/vid-01.fbd80985b4481367fa73.mp4",
     "static/media/vid-02.mp4": "/static/media/vid-02.8dba4bcf5621ae1a7f5a.mp4",
     "static/media/Inconsolata-Variable.ttf": "/static/media/Inconsolata-Variable.ecc7975f1fb4ad9869f1.ttf",
     "static/media/Oswald-Variable.ttf": "/static/media/Oswald-Variable.081935b0034a515c1872.ttf",
+    "static/media/logo2.png": "/static/media/logo2.cb2345244bc88a515e11.png",
     "static/media/elon-02.webp": "/static/media/elon-02.9e349c3542a137a6221c.webp",
     "static/media/DMSerifDisplay-Regular.ttf": "/static/media/DMSerifDisplay-Regular.3dc35422a8813390b30f.ttf",
     "static/media/pic-03.webp": "/static/media/pic-03.164ebd77c1f0a72221e2.webp",
@@ -14,11 +15,11 @@
     "static/media/pic-01.webp": "/static/media/pic-01.7f6df7ac8180437e76da.webp",
     "static/media/menu.svg": "/static/media/menu.6f77482fc99f7ffd3107.svg",
     "index.html": "/index.html",
-    "main.6c11ffb8.css.map": "/static/css/main.6c11ffb8.css.map",
-    "main.a9f605ec.js.map": "/static/js/main.a9f605ec.js.map"
+    "main.0550cf8e.css.map": "/static/css/main.0550cf8e.css.map",
+    "main.35284044.js.map": "/static/js/main.35284044.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c11ffb8.css",
-    "static/js/main.a9f605ec.js"
+    "static/css/main.0550cf8e.css",
+    "static/js/main.35284044.js"
   ]
 }
