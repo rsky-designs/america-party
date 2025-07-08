@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.55fd5da0.css",
-    "main.js": "/static/js/main.bf5ac13b.js",
+    "main.css": "/static/css/main.00fb52f6.css",
+    "main.js": "/static/js/main.fda17075.js",
     "static/media/vid-01.mp4": "/static/media/vid-01.fbd80985b4481367fa73.mp4",
     "static/media/vid-02.mp4": "/static/media/vid-02.8dba4bcf5621ae1a7f5a.mp4",
     "static/media/Inconsolata-Variable.ttf": "/static/media/Inconsolata-Variable.ecc7975f1fb4ad9869f1.ttf",
@@ -22,11 +22,11 @@
     "static/media/tweet-06.webp": "/static/media/tweet-06.8610a7f705a29b115b5d.webp",
     "static/media/menu.svg": "/static/media/menu.6f77482fc99f7ffd3107.svg",
     "index.html": "/index.html",
-    "main.55fd5da0.css.map": "/static/css/main.55fd5da0.css.map",
-    "main.bf5ac13b.js.map": "/static/js/main.bf5ac13b.js.map"
+    "main.00fb52f6.css.map": "/static/css/main.00fb52f6.css.map",
+    "main.fda17075.js.map": "/static/js/main.fda17075.js.map"
   },
   "entrypoints": [
-    "static/css/main.55fd5da0.css",
-    "static/js/main.bf5ac13b.js"
+    "static/css/main.00fb52f6.css",
+    "static/js/main.fda17075.js"
   ]
 }
