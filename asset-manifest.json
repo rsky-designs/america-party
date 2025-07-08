@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.07200baa.css",
-    "main.js": "/static/js/main.7998602c.js",
+    "main.css": "/static/css/main.55fd5da0.css",
+    "main.js": "/static/js/main.bf5ac13b.js",
     "static/media/vid-01.mp4": "/static/media/vid-01.fbd80985b4481367fa73.mp4",
     "static/media/vid-02.mp4": "/static/media/vid-02.8dba4bcf5621ae1a7f5a.mp4",
     "static/media/Inconsolata-Variable.ttf": "/static/media/Inconsolata-Variable.ecc7975f1fb4ad9869f1.ttf",
     "static/media/Oswald-Variable.ttf": "/static/media/Oswald-Variable.081935b0034a515c1872.ttf",
-    "static/media/tweet-08.jpeg": "/static/media/tweet-08.893c40980c3f93007cbe.jpeg",
     "static/media/logo2.png": "/static/media/logo2.cb2345244bc88a515e11.png",
-    "static/media/tweet-03.jpeg": "/static/media/tweet-03.a59f4ce9d55a9dbdf0d5.jpeg",
+    "static/media/tweet-08.webp": "/static/media/tweet-08.6713730d61a85293f94e.webp",
     "static/media/elon-02.webp": "/static/media/elon-02.9e349c3542a137a6221c.webp",
-    "static/media/tweet-02.jpeg": "/static/media/tweet-02.705a5d132d1b7c68f533.jpeg",
+    "static/media/tweet-03.webp": "/static/media/tweet-03.cb093bf965a1c49801b5.webp",
     "static/media/DMSerifDisplay-Regular.ttf": "/static/media/DMSerifDisplay-Regular.3dc35422a8813390b30f.ttf",
-    "static/media/tweet-07.jpeg": "/static/media/tweet-07.9e61801e6edbab953d79.jpeg",
-    "static/media/tweet-01.jpeg": "/static/media/tweet-01.c6039fe476d4b65d20e2.jpeg",
+    "static/media/tweet-02.webp": "/static/media/tweet-02.b60c2101a65577634d15.webp",
+    "static/media/tweet-07.webp": "/static/media/tweet-07.ce6cff3faec57e7ac2a9.webp",
     "static/media/pic-03.webp": "/static/media/pic-03.164ebd77c1f0a72221e2.webp",
-    "static/media/tweet-04.jpeg": "/static/media/tweet-04.8e742ecada8b0a07119e.jpeg",
-    "static/media/tweet-06.jpeg": "/static/media/tweet-06.88f9a2fe23b61c70266b.jpeg",
+    "static/media/tweet-01.webp": "/static/media/tweet-01.215b5c477c0067550966.webp",
     "static/media/elon-01.webp": "/static/media/elon-01.67384051d3c8a93ccd74.webp",
+    "static/media/tweet-04.webp": "/static/media/tweet-04.807e54f5a038dceb2754.webp",
     "static/media/pic-04.webp": "/static/media/pic-04.b106067e367af311a7c5.webp",
     "static/media/pic-01.webp": "/static/media/pic-01.7f6df7ac8180437e76da.webp",
+    "static/media/tweet-06.webp": "/static/media/tweet-06.8610a7f705a29b115b5d.webp",
     "static/media/menu.svg": "/static/media/menu.6f77482fc99f7ffd3107.svg",
     "index.html": "/index.html",
-    "main.07200baa.css.map": "/static/css/main.07200baa.css.map",
-    "main.7998602c.js.map": "/static/js/main.7998602c.js.map"
+    "main.55fd5da0.css.map": "/static/css/main.55fd5da0.css.map",
+    "main.bf5ac13b.js.map": "/static/js/main.bf5ac13b.js.map"
   },
   "entrypoints": [
-    "static/css/main.07200baa.css",
-    "static/js/main.7998602c.js"
+    "static/css/main.55fd5da0.css",
+    "static/js/main.bf5ac13b.js"
   ]
 }
